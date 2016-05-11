@@ -6,6 +6,6 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "TEST": "good test",
-    "PAUL": "This is a test button %[TEST](postback:here for the bot)",
-    "TEST2": "bad test"
+    "PAUL": "This is a test button. %[TEST](postback:twitter)",
+    "TEST2": "bad test",
 }
