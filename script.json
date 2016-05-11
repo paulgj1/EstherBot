@@ -6,5 +6,5 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "TEST": "good test",
-    "PAUL": "Bot image!\n[[esther]](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\n"
+    "PAUL": "This is a test button\n%[TEST](postback:here for the bot)
 }
